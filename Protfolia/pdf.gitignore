@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Adobe / AppData stuff
+AppData/
+*.lst
